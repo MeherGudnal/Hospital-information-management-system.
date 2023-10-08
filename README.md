@@ -1,1 +1,13 @@
 # Hospital-information-management-system.
+
+
+
+
+
+
+
+
+
+
+
+
